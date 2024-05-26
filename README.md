@@ -11,3 +11,4 @@ Open your web browser and navigate to http://localhost:8000 to access the applic
 
 
 [netflix1.png](https://github.com/asiancart/Netflix_Clone_Django/blob/main/netflix1.png)
+[netflix2.png ](https://github.com/asiancart/Netflix_Clone_Django/blob/main/netflix2.png)
