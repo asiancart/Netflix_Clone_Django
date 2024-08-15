@@ -1,0 +1,13 @@
+{
+    "builds": [{
+        "src": "netflix.wsgi.py",
+        "use": "@vercelpython",
+        "config": { "maxLambdaSize": "15mb", "runtime": "python3.10" }
+    }],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "netflix/wsgi.py"
+        }
+    ]
+}
